@@ -1,0 +1,28 @@
+.continer {
+  border: 1px solid grey;
+  border-radius: 4px;
+  padding: 8px;
+  margin-bottom: 20px;
+}
+
+.inputFeld {
+  width: 100%;
+  height: 25px;
+  border-radius: 4px;
+  margin-bottom: 13px;
+}
+
+.inputName {
+  margin: 0;
+}
+
+.BtnSubmit {
+  width: 100%;
+  border-radius: 4px;
+  background-color: blue;
+  outline: none;
+  height: 35px;
+  color: white;
+  font-size: 23px;
+  cursor: pointer;
+}

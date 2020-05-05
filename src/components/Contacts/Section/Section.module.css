@@ -1,0 +1,12 @@
+.bodycontainet {
+  position: relative;
+  width: 100%;
+  overflow-x: hidden
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 20px;
+  padding-top: 10px;
+}
